@@ -7,7 +7,7 @@
 1.  Clone the project from github. Change "myproject" to your project name.
 
 ```bash
-git clone https://github.com/RodrigoBS98/nodejs-crypto.git ./myproject
+git clone https://github.com/ZafraDev/nodejs-crypto.git ./myproject
 ```
 
 ### Using manual download ZIP
